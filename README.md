@@ -1,1 +1,1 @@
-# Mini Project - idb
+# my Mini Project - ideasboard

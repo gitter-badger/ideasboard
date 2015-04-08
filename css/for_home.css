@@ -1,0 +1,47 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.brand-logo {
+	font-family: freaking;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+
+@font-face {
+    font-family: freaking;
+    src: url("../fonts/Are You Freakin' Serious.ttf");
+}
+
+.card {
+	padding-top:0px;
+	margin:20px;
+ 	width:250px;
+  height:auto;
+  background-color:white;
+   
+}
+
+.card .card-image img {
+  width:250px;
+  max-width: 300px;
+  height: auto;
+}
+
+.mdi-content-add {
+  font-family: material-icons;
+}
+
+@font-face {
+    font-family: material-icons;
+    src: url("../fonts/material-design-icons/Material-Design-Icons.ttf");
+}
